@@ -14,6 +14,6 @@ segmentfault 专栏：[码流](https://segmentfault.com/blog/troyliu)
 
 CSDN [博客](https://blog.csdn.net/TroyLemon)
 
-等技术博客代码
+本仓库为上述技术博客涉及的代码。博客会持续更新与创作。感兴趣的可以关注一下。
 
 
